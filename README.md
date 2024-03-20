@@ -1,6 +1,6 @@
   # React Quiz App
 This is a simple quiz application built using React. Users can take quizzes on various topics and receive immediate feedback on their answers.
-
+<hr/>
 Features
 Interactive Quiz Experience: Users can answer quiz questions and receive instant feedback.
 Score Tracking: Users can track their quiz scores and see their progress.
