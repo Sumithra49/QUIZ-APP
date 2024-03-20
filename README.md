@@ -1,19 +1,22 @@
   # React Quiz App
 This is a simple quiz application built using React. Users can take quizzes on various topics and receive immediate feedback on their answers.
 <hr/>
-Features
+ <h3>Features</h3>
+ <hr/>
 Interactive Quiz Experience: Users can answer quiz questions and receive instant feedback.
 Score Tracking: Users can track their quiz scores and see their progress.
 Next Question: Users can move to the next question after answering the current one.
 Reset: Users can reset the quiz to start again.
-Technology Stack
-Frontend
+<h3>Technology Stack</h3>
+<h2Frontend></h2>
 React: A JavaScript library for building user interfaces.
 HTML: Used for structuring the web pages.
 CSS: Styling for the quiz interface.
 Data
 data.json: A JSON file containing quiz questions, options, and correct answers.
-Setup
+<h3>
+Setup</h3>
+<hr>
 Clone the repository:
 
 bash
@@ -36,7 +39,8 @@ Copy code
 npm start
 Open your browser and navigate to http://localhost:3000 to view the app.
 
-How to Use:
+<h3>How to Use:</h3>
+<hr>
 
 
 Answering Questions: Click on one of the options presented for each question.
