@@ -1,6 +1,9 @@
   # React Quiz App
 This is a simple quiz application built using React. Users can take quizzes on various topics and receive immediate feedback on their answers.
 <hr/>
+ <h3> Deployed App</h3>
+ The deployed links can be accessed below.
+ https://quiz-knowledge.netlify.app/
  <h3>Features</h3>
  <hr/>
 Interactive Quiz Experience: Users can answer quiz questions and receive instant feedback.
